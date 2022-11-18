@@ -1,2 +1,6 @@
 Hello, My name is Baek Seung Won.
-Kumoh National Institute of Technology
+KIT(Kumoh NAtional Institute of Technology)
+
+Computer Sciences
+C programing
+Object-oriented programing
